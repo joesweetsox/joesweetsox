@@ -15,13 +15,20 @@
 
 ### 🧭 About Me
 
-I design and build **AI/ML systems that think in relationships** — graphs, not grids.  
-After 20+ years leading national-scale analytics programs, I founded **[GraphVentures](#)** to explore **graph-native and multimodal approaches to entity resolution**, connecting structured data, text, and imagery into unified, explainable knowledge networks.
+I build and lead **data systems that think in relationships** — graphs, not tables.
+
+After two decades designing analytics architectures inside the federal government,  
+I now focus on **GraphVentures**, an applied R&D venture exploring  
+graph-native and multimodal approaches to entity resolution.
 
 My work blends:
 - **Graph-centric reasoning** — structure-aware learning and retrieval
 - **Entity resolution** — probabilistic and visual linking at massive scale
 - **Pragmatic ML systems** — from prototype to reproducible, operational pipelines
+
+This space exists mostly to share **proof-of-concept work** —  
+things I build to explore ideas, validate methods, or explain a concept to others.  
+If the code runs, it’s because the idea matters, not because I’m trying to ship a package.
 
 > I build where the messy, human parts of data meet the rigor of mathematics.
 
@@ -51,28 +58,15 @@ These are small, reproducible projects that showcase how I work: measured, inter
 Python tools for analyzing **IoT weather sensors** and modeling **multi-zone HVAC dynamics**.  
 Used for residential thermal efficiency research and cycle detection.
 
-**Highlights**
-- Ecowitt API integration (real + historical data)  
-- Derivative-based heating/cooling detection  
-- Zone coupling and entropy profiling  
-- Bias correction between rooms and sensors  
-- Example notebooks and plots  
-
-> *Explores data driven HVAC zone optimization.*
 
 ---
+#### ⛵ [SailingTrack](https://github.com/joesweetsox/SailingTrack)
+Library + CLI for analyzing GPX tracks and producing **interactive maps**  
+with speed overlays and Chesapeake Bay navigation markers.
 
-### ⛵ [SailingTrack](https://github.com/joesweetsox/SailingTrack)
-Library + CLI to analyze GPX tracks and generate **interactive maps** with color-coded speeds and Chesapeake Bay navigation marks.
+> Both projects are examples of **physical systems analysis** —  
+> how structured relationships and time-series dynamics can be modeled, measured, and visualized.
 
-**Highlights**
-- Parse GPX and compute distance, speed, bearing  
-- Generate interactive **Folium** maps with speed overlays  
-- MRSA and Chesapeake markers built-in  
-- Export enriched metrics and segment statistics  
-- Supports sailing, cycling, and metric modes  
-
-> *Originally built to visualize race performance — now a neat geospatial analytics sandbox.*
 
 ---
 
@@ -88,14 +82,10 @@ Library + CLI to analyze GPX tracks and generate **interactive maps** with color
 
 ---
 
-## 🧩 How I Work
+### Philosophy
 
-1. Start with the decision you’re trying to inform  
-2. Prototype the smallest measurable truth  
-3. Measure → refine → scale only what matters  
-4. Make it interpretable and maintainable  
-
-> “If the team can’t explain it and the execs can’t act on it, it’s not done.”
+> “If you can’t measure it, you can’t manage it.  
+> If you can’t explain it, you shouldn’t automate it.”
 
 ---
 
