@@ -100,7 +100,7 @@ Library + CLI to analyze GPX tracks and generate **interactive maps** with color
 ---
 
 ## 📫 Get in Touch
-- ✉️ **patrick@purple**
+- ✉️ **patrick.bobbitt@gmail.com**
 - 🌐 **GitHub:** [github.com/joesweetsox](https://github.com/joesweetsox)
 - 📍 **Maryland, USA (US-East)**
 
