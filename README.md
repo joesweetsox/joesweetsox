@@ -27,19 +27,25 @@ If the code runs, it’s because the idea matters, not because I’m trying to s
 
 ---
 
-## 🧠 Current Focus — GraphVentures
+### 🧠 Current Focus — GraphVentures
 
-**GraphVentures** is a small, experimental research venture focused on advancing **visual and multimodal entity resolution.**  
-Our goal is to connect visual, textual, and structured representations in a way that’s interpretable, verifiable, and graph-native.
+**GraphVentures** is a small, experimental research venture developing **next-generation methods for visual and multimodal entity resolution** — connecting visual, textual, and structured data into unified, explainable knowledge graphs.
 
-**Recent research directions**
-- Image-to-graph pipelines linking photos of individuals across time  
-- Bayesian and constraint-based graph matching  
+We design algorithms and pipelines that make identity- and relationship-matching **interpretable, verifiable, and operational at scale**.  
+Our R&D bridges foundational research and real-world use through early pilots and partner integrations.
+
+**Core Research Directions**
+- Image-to-graph pipelines linking photos of individuals across age, lighting, and context  
+- Bayesian and constraint-based graph matching for resilient, explainable resolution  
 - Graph-native RAG: retrieval grounded in relationships, not just vectors  
-- GPU-accelerated entity linking experiments (cuGraph + PGVector)
+- GPU-accelerated entity linking experiments (cuGraph + PGVector)  
 
-**Status:** stealth-stage; early collaborations with archival and analytic partners.  
-**Focus:** patent-backed hybrid methods and small, interpretable AI.
+**Current Stage**
+- Stealth-stage development with **archival, analytic, and private-equity partners** exploring pilot deployments  
+- **Patent-backed hybrid methods** under development for commercialization  
+- Focused on **small, interpretable AI** systems that can withstand regulatory and trust scrutiny  
+
+> *GraphVentures builds graph-centric intelligence designed for environments where explainability, provenance, and accountability matter as much as performance.*
 
 ---
 
