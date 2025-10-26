@@ -100,9 +100,10 @@ Library + CLI to analyze GPX tracks and generate **interactive maps** with color
 ---
 
 ## 📫 Get in Touch
-- ✉️ **patrick.bobbitt@gmail.com**
-- 🌐 **GitHub:** [github.com/joesweetsox](https://github.com/joesweetsox)
-- 📍 **Maryland, USA (US-East)**
+- ✉️ **patrick.bobbitt@gmail.com**  
+- 🌐 **GitHub:** [github.com/joesweetsox](https://github.com/joesweetsox)  
+- 💼 **LinkedIn:** [www.linkedin.com/in/patrick-bobbitt-b792292a](https://www.linkedin.com/in/patrick-bobbitt-b792292a)  
+- 📍 **Maryland, USA (US-East)**  
 
 If you’re exploring graph-native retrieval, multimodal ER, or pragmatic AI modernization — I’d love to compare notes.
 
