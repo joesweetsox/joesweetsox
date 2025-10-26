@@ -1,14 +1,7 @@
 <!-- README.md for joesweetsox (profile repo) -->
-
-<h1 align="center">Hi, I'm Patrick Bobbitt 👋</h1>
+<h1 align="center">Patrick Bobbitt</h1>
 <p align="center">
-  Data Scientist • Graph Ventures Founder • AI/ML Systems Architect
-</p>
-
-<p align="center">
-  <img alt="Python" src="https://img.shields.io/badge/Python-3.10%2B-blue">
-  <img alt="Graph AI" src="https://img.shields.io/badge/Graph%20AI-Entity%20Resolution%20%7C%20Knowledge%20Graphs-green">
-  <img alt="License" src="https://img.shields.io/badge/License-MIT-lightgrey">
+  Data Scientist • GraphVentures Founder • Systems Architect
 </p>
 
 ---
