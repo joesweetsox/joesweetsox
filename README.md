@@ -36,7 +36,7 @@ Our goal is to connect visual, textual, and structured representations in a way 
 - Image-to-graph pipelines linking photos of individuals across time  
 - Bayesian and constraint-based graph matching  
 - Graph-native RAG: retrieval grounded in relationships, not just vectors  
-- GPU-accelerated entity linking experiments (FAISS + cuGraph + PGVector)
+- GPU-accelerated entity linking experiments (cuGraph + PGVector)
 
 **Status:** stealth-stage; early collaborations with archival and analytic partners.  
 **Focus:** patent-backed hybrid methods and small, interpretable AI.
@@ -47,7 +47,7 @@ Our goal is to connect visual, textual, and structured representations in a way 
 
 These are small, reproducible projects that showcase how I work: measured, interpretable, and grounded in physical data.
 
-### 🧊 [WeatherStation](https://github.com/joesweetsox/WeatherStation)
+### 🧊 [HVAC_ZoneAnalytics](https://github.com/joesweetsox/HVAC_ZoneAnalytics)
 Python tools for analyzing **IoT weather sensors** and modeling **multi-zone HVAC dynamics**.  
 Used for residential thermal efficiency research and cycle detection.
 
@@ -58,7 +58,7 @@ Used for residential thermal efficiency research and cycle detection.
 - Bias correction between rooms and sensors  
 - Example notebooks and plots  
 
-> *Explores how physical systems reveal structure when treated like a graph.*
+> *Explores data driven HVAC zone optimization.*
 
 ---
 
@@ -82,7 +82,7 @@ Library + CLI to analyze GPX tracks and generate **interactive maps** with color
 |------|--------------------|
 | **Core Languages** | Python, PySpark, SQL |
 | **Graph / ER** | Neo4j, PGVector, cuGraph, FAISS, NetworkX |
-| **Data Systems** | Databricks, Delta Lake, MLflow |
+| **Data Systems** | Databricks, Delta Lake, MLflow, RAPIDS|
 | **Visualization** | Folium, Plotly, Matplotlib |
 | **Infra** | Docker, CI/CD, GPU prototyping rigs |
 
